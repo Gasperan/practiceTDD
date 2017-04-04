@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-stack.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-stack_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-stack_main.iml" group="kata-stack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kata-stack_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kata-stack_test.iml" group="kata-stack" />
+    </modules>
+  </component>
+</project>
